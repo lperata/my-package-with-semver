@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`2ccfe7a`](https://github.com/lperata/my-package-with-semver/commit/2ccfe7aad98af5274d3cfc10ff52fae1a374c019))
+
+
 ## v1.1.0 (2026-05-16)
 
 ### Bug Fixes
