@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`a533bf6`](https://github.com/lperata/my-package-with-semver/commit/a533bf67e1d233297fceed811b3ffc6f88ec31d4))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
